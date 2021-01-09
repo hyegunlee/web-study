@@ -1,0 +1,22 @@
+p > .title {
+    color:red
+}
+
+.layout {
+    background-color: salmon;
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    border: 5px solid deepskyblue;
+    text-align: center;
+}
+
+.title2{
+    color: #fff;
+    font-size: 200%;
+    font-weight: 900;
+    margin-top: 100px;
+    padding-top: 50px;
+    font-family: 'Nanum Myeongjo', serif;
+
+}
